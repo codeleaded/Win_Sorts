@@ -3,7 +3,7 @@
 #include "/home/codeleaded/System/Static/Library/Algorithms.h"
 #include "/home/codeleaded/System/Static/Container/Vector.h"
 
-#define DATA_SIZE	(100000000)
+#define DATA_SIZE	(10000000)
 #define TYPE		float
 #define MODE_MAX	3
 
